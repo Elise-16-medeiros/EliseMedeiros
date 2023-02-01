@@ -1,7 +1,7 @@
 # Olá, eu sou Elise Medeiros
-- Atualmente formanda em Análise e Desenvolvimento de Sistemas
-- Curso Programação Full Stack pela Recode Pro
-- Buscando primeira experiência em progrmação Full Stack
+- Formada em Análise e Desenvolvimento de Sistemas - Estácio de Sá
+- Curso Programação Full Stack - Recode Pro
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
